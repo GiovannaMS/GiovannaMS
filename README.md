@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Giovanna! 👋
 
 - 🌱 Estudando Flutter
-- ⚡ Fun fact: Sou viciada em livros 📖
 
 <div align="center">
   <a href="https://github.com/GiovannaMS">
