@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Giovanna! 👋
 
-- 🌱 Estudando Flutter
+- 🌱 Dev Flutter Junior
 
 <div align="center">
   <a href="https://github.com/GiovannaMS">
