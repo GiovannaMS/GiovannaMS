@@ -21,7 +21,7 @@
 ![C#](https://img.shields.io/badge/CSharp-800080?style=for-the-badge&logo=csharp&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML-ffe5b4?style=for-the-badge&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-800080?style=for-the-badge&logo=css3&logoColor=ffffff)
-[![Node.js](https://img.shields.io/badge/Node.js-ffe5b4?style=for-the-badge&logo=node.js&logoColor=000000)](https://git-scm.com/doc)
+[![Java.js](https://img.shields.io/badge/Java.js-ffe5b4?style=for-the-badge&logo=java.js&logoColor=000000)](https://git-scm.com/doc)
 <div style="display: inline_block"><br>
   <img align="center" alt="Gio-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Gio-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
