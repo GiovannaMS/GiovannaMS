@@ -1,8 +1,8 @@
 # Olá! Eu sou a Giovanna! 👋🏻
 
-🌱 Sou uma jovem formada em Análise e Desenvolvimento de Sistemas sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e expandir meus horizontes.
+🌱 Sou uma jovem Desenvolvedora de Software formada em Análise e Desenvolvimento de Sistemas.
+🚀 Sempre em busca de novos conhecimentos e desafios para aprimorar minhas habilidades e expandir meus horizontes.
 
-🥉 Desenvolvedora Flutter Júnior
 
 ##
 
@@ -28,7 +28,7 @@
   <img align="center" alt="Gio-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gio-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Gio-Java.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
