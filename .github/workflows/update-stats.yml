@@ -20,15 +20,15 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFF8E1&title_color=64B5F6&text_color=37474F&icon_color=64B5F6&border_color=90CAF9"
+          options: "username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&bg_color=FFE082&title_color=64B5F6&text_color=37474F&icon_color=64B5F6&border_color=90CAF9"
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
-
+      
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&count_private=true&bg_color=FFF8E1&title_color=64B5F6&text_color=37474F&border_color=90CAF9"
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=8&count_private=true&bg_color=FFE082&title_color=64B5F6&text_color=37474F&border_color=90CAF9"
           path: profile/top-langs.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
 
